@@ -1,0 +1,13 @@
+D:\MSC.IT\Project\Gym Management System\Gym Management System\bin\Gym Management System.dll.config
+D:\MSC.IT\Project\Gym Management System\Gym Management System\bin\Gym Management System.dll
+D:\MSC.IT\Project\Gym Management System\Gym Management System\bin\Gym Management System.pdb
+D:\MSC.IT\Project\Gym Management System\Gym Management System\obj\Debug\Gym Management System.dll
+D:\MSC.IT\Project\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+D:\MSC.IT\Project\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csprojResolveAssemblyReference.cache
+C:\Users\berin\Desktop\Gym Management System\Gym Management System\bin\Gym Management System.dll.config
+C:\Users\berin\Desktop\Gym Management System\Gym Management System\bin\Gym Management System.dll
+C:\Users\berin\Desktop\Gym Management System\Gym Management System\bin\Gym Management System.pdb
+C:\Users\berin\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+C:\Users\berin\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\berin\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.dll
+C:\Users\berin\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
